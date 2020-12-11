@@ -1,4 +1,4 @@
 # Personal_Website
-Personalized website built from scratch using HTML and CSS.
+# Personalized website built from scratch using HTML and CSS.
 
-The website is hosted at: https://shashank-ojha-bot.github.io/Personal_Website/
+*Link to the website is given in the description section*
